@@ -13,7 +13,7 @@
 |---|---|---|
 | **Android 8.0+** | ✅ 已发布 | APK，约 3 MB；固定证书签名，可覆盖升级 |
 | **HarmonyOS 4.x 及以下** | ✅ 可装 APK | 安装同一个安卓包即可 |
-| **HarmonyOS NEXT** | ⏳ **备案中** | 鸿蒙原生版（HAP）正在备案 / 应用市场审核，上架后在此更新 |
+| **HarmonyOS NEXT** | ⏳ **备案中** | 鸿蒙原生版（HAP）正在备案 / 应用市场审核：[说明仓库](https://github.com/feely0208/deepwhale-mobile-harmony)，上架后在此更新 |
 
 ## 功能（1.1 完全体）
 
